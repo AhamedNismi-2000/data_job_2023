@@ -5,15 +5,14 @@ This project analyzes global job listings from **January 1, 2023 to December 31,
 
 The dataset was **cleaned and transformed using Power Query**, and insights were visualized using **Excel Pivot Tables and Bar Charts**. The workbook allows users to **interactively explore how different job titles are associated with specific skills and skill counts**.
 
-
+---
 
 ## 📸 Dashboard Preview
-
 <p align="center">
-  <img src="data_job_2023/assets/skillscount.png" width="800">
+  <img src="../assets/skillscount.png" width="800">
 </p>
 
-
+---
 
 ## 🎯 Objectives
 - Analyze global job titles for the year 2023  
@@ -21,7 +20,7 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
 - Measure and compare skill demand using skill counts  
 - Enable interactive analysis using Pivot Table filters  
 
-
+---
 
 ## 📁 Dataset Details
 - **Time Period:** Jan 01, 2023 – Dec 31, 2023  
@@ -33,7 +32,7 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
   - Skill Count  
   - Location  
 
-
+---
 
 ## 🛠 Tools & Technologies
 - **Microsoft Excel**
@@ -50,9 +49,9 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
 - **Bar Charts** showing skill counts by job title
 - Users can filter by:
   - Job Title
-  - Skill Type
+  - Skill Type  
 
-
+---
 
 ## 🔍 Insights & Analysis
 - Highlights the most common job roles worldwide  
@@ -60,7 +59,7 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
 - Compares skill demand using skill counts  
 - Enables customized analysis by changing job title selections  
 
-
+---
 
 ## 🚀 How to Use
 1. Download and open the Excel workbook  
@@ -68,14 +67,10 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
 3. Use filters or slicers to select a job title  
 4. Analyze the bar charts to view associated skills and skill counts  
 
-
+---
 
 ## 📌 Future Enhancements
 - Add salary-based analysis  
 - Include country-level comparisons  
 - Create trend analysis over time  
 - Upgrade visuals to Power BI or Tableau  
-
-
-
-

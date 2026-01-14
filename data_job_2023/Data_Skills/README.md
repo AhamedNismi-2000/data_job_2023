@@ -10,7 +10,7 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="assets/skillscount.png" width="800">
+  <img src="data_job_2023/assets/skillscount.png" width="800">
 </p>
 
 

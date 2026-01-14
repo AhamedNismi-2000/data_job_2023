@@ -1,69 +1,101 @@
-# 🌍 Global Job Market Skills Analysis (2023)
+# 🌍 Global Job Market Analysis & Skill Correlation (2023)
 
 ## 📊 Project Overview
-This project analyzes global job listings from **January 1, 2023 to December 31, 2023** to understand **job roles and the skills associated with them** across different regions of the world.
+This project presents a comprehensive **data analysis and visualization of global job postings** collected between **January 1, 2023 and December 31, 2023**.
 
-The project focuses on identifying **job titles**, **skill types**, and the **frequency of skills** required for each role. An interactive dashboard is used to allow users to explore the data dynamically using **slicers and filters**.
+The goal of this project is to explore **relationships and correlations** between:
+- Job titles  
+- Required skills and skill count  
+- Job posting dates  
+- Job posting platforms  
+- Countries  
+- Yearly and hourly salaries  
+
+Interactive dashboards allow users to analyze trends, patterns, and correlations dynamically using **filters and slicers**.
 
 ---
 
 ## 🎯 Objectives
-- Analyze global job titles for the year 2023  
-- Identify skills associated with each job role  
-- Measure and compare skill demand using skill counts  
-- Enable interactive data exploration through filters and slicers  
+- Understand how **skills correlate with job titles**  
+- Analyze the relationship between **job posting dates and skill demand**  
+- Compare **skill count across different job roles**  
+- Explore salary variations (yearly & hourly) by:
+  - Job title
+  - Country
+  - Job platform  
+- Enable **interactive data exploration**  
 
 ---
 
-## 📁 Dataset Details
+## 📁 Dataset Summary
 - **Time Period:** Jan 01, 2023 – Dec 31, 2023  
-- **Coverage:** Worldwide job listings  
-- **Key Fields:**
+- **Geographic Scope:** Global  
+- **Key Attributes:**
   - Job Title  
   - Skills  
-  - Skill Type  
   - Skill Count  
-  - Location  
+  - Job Posted Date  
+  - Job Platform (Job Via)  
+  - Country  
+  - Yearly Salary  
+  - Hourly Salary  
 
 ---
 
 ## 🛠 Tools & Technologies
 - Data Cleaning & Preparation  
-- Data Analysis  
-- Data Visualization Tool (e.g., Power BI / Tableau / Excel)  
-- Interactive dashboard features (slicers & filters)
+- Exploratory Data Analysis (EDA)  
+- Data Visualization Tool (Power BI / Tableau / Excel)  
+- Interactive dashboard features:
+  - Slicers
+  - Filters
+  - Drill-down visuals  
 
 ---
 
-## 📈 Key Features
-- Interactive visualization of job titles and skill demand  
-- Skill type categorization and count analysis  
-- Slicers for selecting job titles  
-- Filters for detailed skill exploration  
+## 📈 Visualizations & Analysis
+The dashboard includes multiple interactive visualizations such as:
+
+- **Skill vs Job Title Correlation**
+- **Skill Count Distribution by Job Role**
+- **Job Posting Trends Over Time**
+- **Skill Demand by Country**
+- **Salary Analysis**
+  - Yearly Salary vs Job Title
+  - Hourly Salary vs Country
+- **Job Platform Comparison**
+  - Skill demand by job posting source  
+
+Users can apply slicers to filter data by:
+- Job Title  
+- Country  
+- Skill Type  
+- Job Platform  
+- Date Range  
 
 ---
 
-## 🔍 Insights & Analysis
-- Highlights the most common job roles worldwide  
-- Identifies high-demand skills across job titles  
-- Shows how skill requirements vary by role  
-- Allows users to perform customized analysis interactively  
+## 🔍 Key Insights
+- Identifies high-demand skills across different job roles  
+- Shows how skill requirements change over time  
+- Highlights salary differences by role and region  
+- Reveals platform-wise job and skill distribution  
 
 ---
 
 ## 🚀 How to Use
 1. Open the dashboard or visualization file  
-2. Use slicers to select specific job titles  
-3. Apply filters to analyze skill types  
-4. Review charts and visuals to gain insights  
+2. Use slicers to select job titles, countries, or platforms  
+3. Apply filters to analyze skills and salary trends  
+4. Explore correlations using interactive charts  
 
 ---
 
 ## 📌 Future Enhancements
-- Add salary and experience-level analysis  
-- Include trend comparison with previous years  
-- Expand analysis by industry  
-- Automate data refresh  
+- Add predictive analysis for salary trends  
+- Include experience-level and education requirements  
+- Extend analysis to multiple years  
+- Automate data refresh and pipeline  
 
 ---
 

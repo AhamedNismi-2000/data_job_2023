@@ -30,7 +30,7 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
   - Skills  
   - Skill Type  
   - Skill Count  
-  - Location  
+
 
 ---
 
@@ -67,10 +67,5 @@ The dataset was **cleaned and transformed using Power Query**, and insights were
 3. Use filters or slicers to select a job title  
 4. Analyze the bar charts to view associated skills and skill counts  
 
----
 
-## 📌 Future Enhancements
-- Add salary-based analysis  
-- Include country-level comparisons  
-- Create trend analysis over time  
-- Upgrade visuals to Power BI or Tableau  
+

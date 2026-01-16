@@ -1,12 +1,12 @@
 # Job Market Skill Complexity Analysis – Excel, Power Query & Power Pivot
 
 ## 👋 Overview
-This project demonstrates my ability to perform **end-to-end data analysis** using **Microsoft Excel**, with a focus on understanding **how skill complexity relates to salary levels in the job market**.
+This project demonstrates my ability to perform **end-to-end data analysis** using **Microsoft Excel**, with a focus on understanding **how skill complexity relates to salary levels across different countries**.
 
 The analysis explores the relationship between **median salary** and **skills required per job**, using **explicit DAX measures** and a **scatter plot visualization**.  
-Data preparation was handled using **Power Query**, while **Power Pivot** was used for data modeling and measure creation.
+Data preparation was handled using **Power Query**, while **Power Pivot** was used for **data modeling, DAX calculations, and interactive analysis**.
 
-This project reflects core skills expected from a **Data Analyst**, including ETL, data modeling, DAX calculations, and analytical visualization.
+This project reflects core skills expected from a **Data Analyst**, including ETL, data modeling, DAX, visualization, and insight generation.
 
 ---
 
@@ -14,8 +14,9 @@ This project reflects core skills expected from a **Data Analyst**, including ET
 The objective of this analysis is to:
 - Measure **skill intensity (skills per job)** across roles
 - Analyze how **median salary varies with skill complexity**
-- Identify roles that require **broader skill sets**
-- Support **data-driven insights** for recruitment and workforce planning
+- Compare **skill requirements across countries**
+- Enable **interactive, country-level exploration** of job market trends
+- Support **data-driven recruitment and workforce planning decisions**
 
 ---
 
@@ -23,8 +24,9 @@ The objective of this analysis is to:
 - Data Cleaning & Transformation (ETL)
 - Power Query
 - Power Pivot (Data Modeling)
-- DAX Measures (Explicit Measures)
+- DAX Explicit Measures
 - Scatter Plot Visualization
+- Interactive dashboards using slicers
 - Analytical reasoning & data storytelling
 
 ---
@@ -39,9 +41,9 @@ The ETL and modeling workflow includes:
    - **Skill Count**
    - **Job Count**
    - **Skills per Job** (derived measure)
-5. Ensured accurate aggregation for analytical visualization
+5. Enabled **country-based filtering** through slicers
 
-This approach ensures **reliable metrics and scalable analysis**.
+This approach ensures **accurate metrics, scalability, and analytical flexibility**.
 
 ---
 
@@ -52,20 +54,20 @@ The final analysis is presented using a **Scatter Plot** built on Power Pivot me
 - **Chart Type:** Scatter Plot
 - **X-Axis:** Median Salary
 - **Y-Axis:** Skills per Job
-- **Data Points:** Job roles / skill groups (based on the data model)
+- **Data Points:** Job roles / skill groups
+- **Slicer:** Country
 
-This visualization highlights the relationship between **salary levels and required skill breadth**, making it easier to identify:
-- High-paying roles with high skill complexity
-- Roles with fewer required skills but competitive salaries
+This visualization highlights how **skill requirements and salary levels vary across countries**, making it easy to identify:
+- High-paying roles requiring broader skill sets
+- Country-specific differences in skill complexity
+- Roles with efficient salary-to-skill ratios
 
 ---
 
 ## 🎛 Interactivity & User Experience
-- The dashboard is powered by **Power Pivot measures**
-- Users can interact with filters or slicers (if applied)
-- Visuals update dynamically based on selected criteria
-
-This enables a **self-service analytical experience**, similar to professional BI tools.
+- **Country slicer** allows users to dynamically filter the analysis by region
+- All metrics and visuals update instantly based on selections
+- Enables **self-service, exploratory analysis** similar to professional BI dashboards
 
 ---
 
@@ -78,13 +80,14 @@ This enables a **self-service analytical experience**, similar to professional B
 
 ## 📌 Why This Project Matters
 This project demonstrates my ability to:
-- Translate raw data into **meaningful analytical measures**
-- Use **DAX** to derive business-relevant metrics
-- Design visualizations that reveal **non-obvious relationships**
-- Apply Excel beyond basic reporting into **analytical modeling**
+- Build **robust analytical models** using Power Pivot and DAX
+- Design **interactive dashboards** with meaningful slicers
+- Analyze **cross-country job market trends**
+- Communicate complex relationships through **effective visualization**
 
-It highlights essential **Data Analyst competencies**: Power Query, Power Pivot, DAX, visualization, and insight generation.
+It highlights essential **Data Analyst competencies**: Power Query, Power Pivot, DAX, interactive visualization, and business-focused analysis.
 
 ---
 
-
+## 📬 Contact
+For questions or discussion about this project or potential data analyst opportunities, feel free to connect.

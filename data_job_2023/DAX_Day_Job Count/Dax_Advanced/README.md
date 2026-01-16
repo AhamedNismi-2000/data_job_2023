@@ -73,7 +73,7 @@ This visualization highlights how **skill requirements and salary levels vary ac
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../assets/skills_vs_salary.png" width="800">
+  <img src="../../assets/skills_vs_salary.png" width="800">
 </p>
 
 ---
@@ -88,6 +88,3 @@ This project demonstrates my ability to:
 It highlights essential **Data Analyst competencies**: Power Query, Power Pivot, DAX, interactive visualization, and business-focused analysis.
 
 ---
-
-## 📬 Contact
-For questions or discussion about this project or potential data analyst opportunities, feel free to connect.

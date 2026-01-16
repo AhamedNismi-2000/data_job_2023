@@ -80,5 +80,3 @@ This visualization makes it easy to compare **job posting volume across weekdays
 
 ---
 
-## 📬 Contact
-For questions, feedback, or discussion about this project or data analyst opportunities, feel free to connect.

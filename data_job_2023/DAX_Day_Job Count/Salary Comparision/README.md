@@ -63,7 +63,7 @@ The visualization provides a clear comparison of **salary differences across reg
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../assets/median_salary_comparison.png" width="800">
+  <img src="../../assets/median_salary_comparison.png" width="800">
 </p>
 
 ---

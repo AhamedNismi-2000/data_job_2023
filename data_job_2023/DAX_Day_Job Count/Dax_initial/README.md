@@ -12,7 +12,7 @@ This project demonstrates practical **data analysis and visualization skills** r
 
 ## 📸 Visualization Preview
 <p align="center">
-  <img src="../assets/job_count_by_weekday.png" width="800">
+  <img src="../../assets/job_count_by_weekday.png" width="800">
 </p>
 
 ---

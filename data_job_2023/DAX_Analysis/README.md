@@ -40,7 +40,7 @@ Analyze how **job posting volume varies by weekday** to understand recruiter pos
 
 ### Dashboard Preview
 <p align="center">
-  <img src="assets/job_count_by_weekday.png" width="800">
+  <img src="../assets/job_count_by_weekday.png" width="800">
 </p>
 
 ---
@@ -62,11 +62,12 @@ Compare **median salary levels across regions** to identify global compensation 
 ### Visualization Design
 - **Chart Type:** Stacked Column Chart  
 - **X-Axis:** Salary Category (US, Non-US, Global)  
-- **Y-Axis:** Median Salary  
+- **Y-Axis:** Median Salary
+-  **Slicer:** Country   
 
 ### Dashboard Preview
 <p align="center">
-  <img src="assets/median_salary_comparison.png" width="800">
+  <img src="../assets/median_salary_comparison.png" width="800">
 </p>
 
 ---
@@ -93,7 +94,7 @@ Understand how **skill complexity (skills per job)** relates to **median salary*
 
 ### Dashboard Preview
 <p align="center">
-  <img src="assets/skills_vs_salary.png" width="800">
+  <img src="../assets/skills_vs_salary.png" width="800">
 </p>
 
 ---
@@ -121,7 +122,7 @@ Used **DAX `CROSSFILTER`** inside explicit measures to temporarily control filte
 
 ### Dashboard Preview
 <p align="center">
-  <img src="assets/skill_type_salary_combo.png" width="800">
+  <img src="../assets/skill_type_salary_combo.png" width="800">
 </p>
 
 ---

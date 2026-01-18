@@ -3,7 +3,7 @@
 
 ---
 
-## 👋 Overview
+##  Overview
 This repository showcases a collection of **Excel-based job market analyses** built using **Power Query**, **Power Pivot**, and **DAX**.  
 The projects focus on **skill demand, salary trends, job posting behavior, and cross-country comparisons**, delivered through **interactive dashboards**.
 
@@ -23,7 +23,7 @@ Each analysis demonstrates **real-world data analyst workflows**, including ETL,
 
 ---
 
-## 📅 Analysis 1: Job Posting Trends by Day of the Week
+## 🔎 Analysis 1: Job Posting Trends by Day of the Week
 
 ### Objective
 Understand how **job posting activity varies across weekdays** to identify recruiter posting patterns.
@@ -59,10 +59,8 @@ Analyze **job demand by skill** and understand how required skills vary across *
 - **Chart Type:** Bar Chart  
 - **X-Axis:** Job Count  
 - **Y-Axis:** Skills  
-
-### Interactivity
-- **Country slicer** – regional comparison  
-- **Job Title slicer** – role-specific skill analysis  
+- **Slicer:** Job Country, Job Title
+ 
 
 ### Dashboard Preview
 <p align="center">
@@ -84,6 +82,7 @@ Understand how **different job roles are associated with varying skill requireme
 ### Visualization Design
 - **Chart Type:** Bar Chart  
 - **Metric:** Skill Count by Job Title  
+- **Slicer:** Job Title
 
 ### Dashboard Preview
 <p align="center">
@@ -107,6 +106,8 @@ Compare **job demand and average yearly salary** across key technical skills.
 - **X-Axis:** Skills (SQL, Python, Excel, Java, R, etc.)  
 - **Primary Y-Axis:** Average Yearly Salary  
 - **Secondary Y-Axis:** Job Count  
+- **Slicer:** Job Title 
+
 
 ### Dashboard Preview
 <p align="center">
@@ -132,7 +133,7 @@ Examine how **skill complexity (skills per job)** relates to **median salary**, 
 - **Chart Type:** Scatter Plot  
 - **X-Axis:** Median Salary  
 - **Y-Axis:** Skills per Job  
-- **Slicer:** Country  
+- **Slicer:** Job Country  
 
 ### Dashboard Preview
 <p align="center">
@@ -155,6 +156,7 @@ Compare **median salaries** between **US, Non-US, and Global markets**.
 - **Chart Type:** Stacked Column Chart  
 - **X-Axis:** Salary Category (US, Non-US, Global)  
 - **Y-Axis:** Median Salary  
+- **Slicer:** Job Country  
 
 ### Dashboard Preview
 <p align="center">
@@ -179,7 +181,7 @@ Used **DAX `CROSSFILTER`** inside explicit measures to temporarily control filte
 - **X-Axis:** Skills  
 - **Primary Y-Axis:** Median Salary  
 - **Secondary Y-Axis:** Skill Count  
-- **Slicers:** Country, Job Title  
+- **Slicers:** Job Country, Job Title  
 
 ### Dashboard Preview
 <p align="center">

@@ -80,7 +80,7 @@ This creates a **self-service, BI-style dashboard** inside Excel.
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../assets/skill_type_salary_combo.png" width="800">
+  <img src="../../assets/skill_type_salary_combo.png" width="800">
 </p>
 
 ---

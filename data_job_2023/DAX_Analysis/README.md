@@ -40,7 +40,7 @@ Analyze how **job posting volume varies by weekday** to understand recruiter pos
 
 ### Dashboard Preview
 <p align="center">
-  <img src="./assets/job_count_by_weekday.png" width="800">
+  <img src="../assets/job_count_by_weekday.png" width="800">
 </p>
 
 ---

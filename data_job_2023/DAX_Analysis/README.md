@@ -62,7 +62,8 @@ Compare **median salary levels across regions** to identify global compensation 
 ### Visualization Design
 - **Chart Type:** Stacked Column Chart  
 - **X-Axis:** Salary Category (US, Non-US, Global)  
-- **Y-Axis:** Median Salary  
+- **Y-Axis:** Median Salary
+-  **Slicer:** Country   
 
 ### Dashboard Preview
 <p align="center">

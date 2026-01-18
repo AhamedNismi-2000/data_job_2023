@@ -40,7 +40,7 @@ Understand how **job posting activity varies across weekdays** to identify recru
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/job_count_by_weekday.png" width="800">
+  <img src="data_job_2023/assets/job_count_by_weekday.png" width="800">
 </p>
 
 ---
@@ -66,7 +66,7 @@ Analyze **job demand by skill** and understand how required skills vary across *
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/job_skills.png" width="800">
+  <img src="data_job_2023/assets/job_skills.png" width="800">
 </p>
 
 ---
@@ -87,7 +87,7 @@ Understand how **different job roles are associated with varying skill requireme
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/skillscount.png" width="800">
+  <img src="data_job_2023/assets/skillscount.png" width="800">
 </p>
 
 ---
@@ -110,7 +110,7 @@ Compare **job demand and average yearly salary** across key technical skills.
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/skills_merge.png" width="800">
+  <img src="data_job_2023/assets/skills_merge.png" width="800">
 </p>
 
 ---
@@ -136,7 +136,7 @@ Examine how **skill complexity (skills per job)** relates to **median salary**, 
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/skills_vs_salary.png" width="800">
+  <img src="data_job_2023/assets/skills_vs_salary.png" width="800">
 </p>
 
 ---
@@ -158,7 +158,7 @@ Compare **median salaries** between **US, Non-US, and Global markets**.
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/median_salary_comparison.png" width="800">
+  <img src="data_job_2023/assets/median_salary_comparison.png" width="800">
 </p>
 
 ---
@@ -183,7 +183,7 @@ Used **DAX `CROSSFILTER`** inside explicit measures to temporarily control filte
 
 ### Dashboard Preview
 <p align="center">
-  <img src="../data_job_2023../assets/skill_type_salary_combo.png" width="800">
+  <img src="data_job_2023/assets/skill_type_salary_combo.png" width="800">
 </p>
 
 ---

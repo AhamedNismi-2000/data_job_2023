@@ -1,116 +1,101 @@
-# 🔗 Skill Type vs Salary Analysis – Excel, Power Pivot & DAX CROSSFILTER
+# 💰 Hourly vs Yearly Median Salary Comparison by Job Title (2023)
 
 ## 📊 Project Overview
-This analysis explores how **different types of skills** relate to **skill median salary and skill demand** in the job market.
+This analysis compares **median yearly salaries** with **hourly-based median salaries (converted to yearly equivalent)** across different **job titles** using global job market data from **2023**.
 
-To achieve this, the data was **cleaned using Power Query** and modeled in **Power Pivot**.  
-Because the relationship between the **skills table and salary table was not directly filterable in the required direction**, a **DAX CROSSFILTER function** was used to correctly propagate filters.
+The dataset was prepared using **Power Query** and analyzed using **Power Pivot**, enabling accurate aggregation and interactive filtering.  
+A **Combo Chart** is used to visualize both salary metrics together, allowing users to clearly understand how **hourly and yearly compensation structures differ by role and country**.
 
-The results are visualized using a **Combo Chart** with interactive slicers, enabling users to explore insights by **country and job title**.
-
-This project demonstrates **advanced Excel and DAX problem-solving techniques** used in real-world data analysis.
+This project demonstrates strong **Excel-based analytical and visualization skills**, commonly required for a **Data Analyst** role.
 
 ---
 
 ## 🎯 Business Objective
-The objectives of this analysis are to:
-- Analyze **skill median salary by skill type**
-- Measure **skill demand using skill count**
-- Overcome **data model filter direction limitations**
-- Enable **interactive analysis** by country and job title
-- Provide accurate insights for recruitment and skill planning
+The goals of this analysis are to:
+- Compare **hourly-based and yearly-based median salaries**
+- Identify **salary structure differences by job title**
+- Analyze compensation trends across countries
+- Enable **interactive, user-driven exploration**
+- Support **data-driven compensation benchmarking**
 
 ---
 
 ## 🛠 Tools & Technologies
 - **Microsoft Excel**
   - Power Query – Data cleaning and transformation
-  - Power Pivot – Data modeling
-  - DAX – Advanced calculations (CROSSFILTER)
+  - Power Pivot – Data modeling and calculations
   - Pivot Tables & Pivot Charts
-  - Slicers – Interactive filtering
+  - Combo Chart (Dual-Axis Visualization)
+  - Slicers – Country-level filtering
 - Data Analysis & Reporting
 
 ---
 
-## 📊 Data Modeling & DAX Logic
-### ⚠️ The Challenge
-The data model included:
-- A **skills table** (`skill_month`)
-- A **salary table** (`job_salary_month_`)
+## 📊 Data Preparation & Modeling
+1. Imported raw job salary data using **Power Query**
+2. Cleaned and standardized:
+   - Job titles
+   - Salary fields
+   - Country information
+3. Loaded the data into the **Power Pivot data model**
+4. Created measures for:
+   - Median Yearly Salary
+   - Median Hourly Salary (Yearly Equivalent)
+5. Enabled **Country slicer** for regional analysis
 
-By default, the filter direction **did not flow from skills to salary**, which prevented correct salary aggregation by skill.
-
----
-
-### ✅ The Solution (The “Hack”)
-To solve this, the **DAX `CROSSFILTER` function** was used inside explicit measures to **temporarily change the filter direction**.
-
-This allowed:
-- Skill selections to correctly filter salary data
-- Accurate calculation of **skill median salaryby skill**
-- Reliable aggregation of **skill count**
-
-This approach ensures analytical correctness without altering the physical data model.
+This approach ensures **consistent metrics and accurate comparisons**.
 
 ---
 
 ## 📈 Visualization & Analysis
-The final insights are presented using a **Combo Chart**.
 
 ### Visualization Design
 - **Chart Type:** Combo Chart (Column + Line)
-- **X-Axis:** Skills
-- **Primary Y-Axis:** Median Salary
-- **Secondary Y-Axis:** Skill Count
-- **Slicers:** Country, Job Title
+- **X-Axis:** Job Title
+- **Primary Y-Axis:** Median Yearly Salary
+- **Secondary Y-Axis:** Median Hourly-Based Yearly Salary
+- **Slicer:** Country
 
-This design enables users to **compare salary levels and skill demand simultaneously**.
+This visualization allows users to:
+- Compare salary structures side by side
+- Identify roles where hourly compensation differs significantly from yearly pay
+- Analyze regional variations using the country slicer
 
 ---
 
 ## 🎛 Interactivity
-- **Country slicer** filters results by region
-- **Job Title slicer** allows role-specific analysis
-- All metrics update dynamically based on slicer selections
-
-This creates a **self-service, BI-style dashboard** inside Excel.
+- **Country slicer** filters salary data by region
+- All salary metrics update dynamically
+- Enables **self-service BI-style exploration**
 
 ---
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../../assets/skill_type_salary_combo.png" width="800">
+  <img src="../assets/hour_vs_year.png" width="800">
 </p>
 
 ---
 
-## 📌 Key Insights
-- Shows how **different skill types impact salary**
-- Identifies **high-value skills with strong demand**
-- Demonstrates the importance of **correct filter context**
-- Enables deep, flexible analysis without restructuring the model
+## 🔍 Key Insights
+- Highlights differences between **hourly and salaried compensation models**
+- Reveals job roles where hourly pay translates to higher or lower yearly earnings
+- Supports **compensation analysis, workforce planning, and market research**
+
+---
+
+## 📌 Skills Demonstrated
+- Power Query ETL
+- Power Pivot data modeling
+- Salary aggregation and comparison
+- Dual-axis visualization using Combo Charts
+- Interactive dashboard design
+- Business-focused insight generation
 
 ---
 
 ## 🚀 How to Use
-1. Open the Excel workbook
-2. Go to the **Dashboard** or **Pivot Chart** sheet
-3. Use slicers to filter by:
-   - Country
-   - Job Title
-4. Review the combo chart to analyze **skill median salaryvs skill count by skill**
-
----
-
-## 📌 Why This Project Matters
-This project highlights my ability to:
-- Solve **complex data model challenges**
-- Use **advanced DAX (CROSSFILTER)** effectively
-- Build **accurate, interactive dashboards**
-- Explain technical solutions clearly to end users
-
-These skills are critical for **Data Analyst and BI roles**.
-
----
-
+1. Download and open the Excel workbook
+2. Navigate to the **Dashboard** or **Pivot Chart** sheet
+3. Use the **Country slicer** to filter results
+4. Compare hourly vs yearly median salaries by job title

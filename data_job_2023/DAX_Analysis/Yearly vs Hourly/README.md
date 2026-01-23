@@ -72,7 +72,7 @@ This visualization allows users to:
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../../assets/hour_vs_year.png" width="800">
+  <img src="../../assets/hour_vs_year.png" width="1200">
 </p>
 
 ---

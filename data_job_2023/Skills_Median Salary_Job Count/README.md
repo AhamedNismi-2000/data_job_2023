@@ -74,5 +74,5 @@ This creates a **self-service analytical dashboard**, similar to real-world BI t
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../assets/skills_merge.png" width="800">
+  <img src="../assets/skills_merge.png" width="1200">
 </p>

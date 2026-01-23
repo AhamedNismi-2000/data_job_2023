@@ -86,7 +86,7 @@ Understand how **different job roles are associated with varying skill requireme
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/skillscount.png" width="800">
+  <img src="data_job_2023/assets/skillscount.png" width="1200">
 </p>
 
 ---

@@ -64,7 +64,7 @@ Analyze **job demand by skill** and understand how required skills vary across *
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/job_skills.png" width="800">
+  <img src="data_job_2023/assets/job_skills.png" width="1200">
 </p>
 
 ---

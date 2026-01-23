@@ -12,7 +12,7 @@ This project demonstrates practical **Excel-based data analysis skills** aligned
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../assets/job_skills.png" width="800">
+  <img src="../assets/job_skills.png" width="1200">
 </p>
 
 ---

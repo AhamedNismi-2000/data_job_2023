@@ -111,7 +111,7 @@ Compare **job demand and average yearly salary** across key technical skills.
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/skills_merge.png" width="800">
+  <img src="data_job_2023/assets/skills_merge.png" width="1200">
 </p>
 
 ---
@@ -137,7 +137,7 @@ Examine how **skill complexity (skills per job)** relates to **median salary**, 
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/skills_vs_salary.png" width="800">
+  <img src="data_job_2023/assets/skills_vs_salary.png" width="1200">
 </p>
 
 ---
@@ -160,7 +160,7 @@ Compare **median salaries** between **US, Non-US, and Global markets**.
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/median_salary_comparison.png" width="800">
+  <img src="data_job_2023/assets/median_salary_comparison.png" width="1200">
 </p>
 
 ---
@@ -185,7 +185,7 @@ Used **DAX `CROSSFILTER`** inside explicit measures to temporarily control filte
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/skill_type_salary_combo.png" width="800">
+  <img src="data_job_2023/assets/skill_type_salary_combo.png" width="1200">
 </p>
 
 ---

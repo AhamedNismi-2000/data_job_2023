@@ -40,7 +40,7 @@ Understand how **job posting activity varies across weekdays** to identify recru
 
 ### Dashboard Preview
 <p align="center">
-  <img src="data_job_2023/assets/job_count_by_weekday.png" width="800">
+  <img src="data_job_2023/assets/job_count_by_weekday.png" width="1200">
 </p>
 
 ---

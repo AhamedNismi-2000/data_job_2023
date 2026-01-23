@@ -73,7 +73,7 @@ This visualization highlights how **skill requirements and salary levels vary ac
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="../../assets/skills_vs_salary.png" width="800">
+  <img src="../../assets/skills_vs_salary.png" width="1200">
 </p>
 
 ---

@@ -110,7 +110,4 @@ This project highlights my ability to:
 - Build **accurate, interactive dashboards**
 - Explain technical solutions clearly to end users
 
-These skills are critical for **Data Analyst and BI roles**.
-
----
 
